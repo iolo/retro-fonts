@@ -1,0 +1,27 @@
+[submodule "neogdm/neodgm"]
+	path = neogdm/neodgm
+	url = https://github.com/neodgm/neodgm.git
+[submodule "galmuri"]
+	path = quiple/galmuri
+	url = https://github.com/quiple/galmuri.git
+[submodule "hbios-sys"]
+	path = quiple/hbios-sys
+	url = https://github.com/quiple/hbios-sys.git
+[submodule "fonts"]
+	path = hurss/fonts
+	url = https://github.com/hurss/fonts.git
+[submodule "RanolP/dalmoori-font"]
+	path = RanolP/dalmoori-font
+	url = https://github.com/RanolP/dalmoori-font.git
+[submodule "spotky1004/font-korean-7x7"]
+	path = spotky1004/font-korean-7x7
+	url = https://github.com/spotky1004/font-korean-7x7.git
+[submodule "exqt/pixel-font-maker"]
+	path = exqt/pixel-font-maker
+	url = https://github.com/exqt/pixel-font-maker.git
+[submodule "bitsnpicas"]
+	path = kreativekorp/bitsnpicas
+	url = https://github.com/kreativekorp/bitsnpicas.git
+[submodule "iolo/unifont"]
+	path = iolo/unifont
+	url = git@github.com:iolo/unifont.git
